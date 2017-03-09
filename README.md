@@ -29,7 +29,7 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 * https://www.coursera.org/learn/database-management
 
 ### Oracle
-* https://carsandcode.com/2014/01/21/oracle-database-12c-on-oracle-linux-6/ 
+* https://carsandcode.com/2014/01/21/oracle-database-12c-on-oracle-linux-6/
 * http://allthingsoracle.com/tag/beginners-guide/
 
 ## Security
@@ -39,8 +39,14 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 ## Podcasts
 
 ## Newsletters
+* [Technically Speaking](https://tinyletter.com/techspeak)
+
+## Blogs
+* [Julia Evans](https://jvns.ca/)
+* [Mariko Kosaka](http://kosamari.com/notes)
 
 ## Conferences
+* [!!Con](http://bangbangcon.com/)
 
 ## Toasty repos
 
