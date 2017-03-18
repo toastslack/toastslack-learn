@@ -45,6 +45,10 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 * [Julia Evans](https://jvns.ca/)
 * [Mariko Kosaka](http://kosamari.com/notes)
 
+## Jobs
+* [Tech Ladies](http://hiretechladies.com)
+* [Power to Fly](https://powertofly.com/)
+
 ## Conferences
 * [!!Con](http://bangbangcon.com/)
 
