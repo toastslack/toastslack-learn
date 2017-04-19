@@ -20,6 +20,7 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 * http://jstherightway.org/
 * https://github.com/getify/You-Dont-Know-JS
 * https://github.com/ericdouglas/ES6-Learning
+* [We All JS Slack Team](https://wealljs.org/)
 
 ### Accessibility
 
@@ -37,6 +38,7 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 * https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html
 
 ## Podcasts
+* [Code Newbie](http://www.codenewbie.org/podcast)
 
 ## Newsletters
 * [Technically Speaking](https://tinyletter.com/techspeak)
