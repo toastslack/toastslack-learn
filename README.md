@@ -68,3 +68,4 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 
 * https://github.com/anziem/toast-archive
 * https://github.com/chesleylovejoy/toastbot
+* [How to run a retrospective meeting](https://github.com/hcopperm/engineering_notes/blob/master/retro.md)
