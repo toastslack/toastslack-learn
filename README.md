@@ -63,6 +63,7 @@ Send a pull request or open an issue to send more useful links! After it, I'll u
 
 ## Conferences
 * [!!Con](http://bangbangcon.com/)
+* [CSV,conf](https://csvconf.com)
 
 ## Toasty repos
 
